@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#707070</color>        <!-- Цвет ActionBar и статус-бара -->
+    <color name="colorPrimaryDark">#000000</color>    <!-- Темный оттенок цвета ActionBar и статус-бара -->
+    <color name="colorAccent">#D82D2D</color>         <!-- Акцентный цвет для различных элементов интерфейса -->
+</resources>

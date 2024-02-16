@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Поиск</string>
+    <string name="trends">Тренды</string>
+    <string name="exit">Выход</string>
+    <string name="lang">RU</string>
+    <string name="comments">Комментарии</string>
+    <string name="views">"Кол-во просмотров: "</string>
+    <string name="published">Опубликовано</string>
+    <string name="enter_a_query">Введите запрос</string>
+    <string name="select_video_quality">Выбирите качество видео</string>
+    <string name="medium_quality">Среднее качество</string>
+    <string name="high_quality">Высокое качество</string>
+    <string name="select_an_action">Выберите действие</string>
+    <string name="download_video">Скачать видео в высоком качестве (720p)</string>
+    <string name="Video_statistics">Статистика видео</string>
+    <string name="Channel_name">"Название канала: "</string>
+    <string name="Number_of_subscribers">"Кол-во подписчиков: "</string>
+    <string name="Genre">"Жанр: "</string>
+    <string name="Opened_alert">Результаты уже открыты!</string>
+    <string name="Error">Установите сторонний загрузчик на это устройство, например: ES проводник</string>
+    <string name="Share">Поделиться видео через</string>
+    <string name="Published">"Опубликовано: "</string>
+    <string name="Loading">Загрузка</string>
+    <string name="Settings">Настройки</string>
+    <string name="Choose_a_mirror_invidious">Выберите зеркало invidious:</string>
+    <string name="Libraries_used">Используемые библиотеки:</string>
+</resources>

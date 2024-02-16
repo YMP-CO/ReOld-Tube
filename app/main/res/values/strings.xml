@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <resources>
+        <string name="pref_key_interface" translatable="false">interface_preference</string>
+        <string name="interface_mobile" translatable="false">mobile</string>
+        <string name="interface_tablet" translatable="false">tablet</string>
+        <string name="search">Search</string>
+        <string name="trends">Trends</string>
+        <string name="exit">Exit</string>
+        <string name="lang">US</string>
+        <string name="comments">Comments</string>
+        <string name="views">"Views: "</string>
+        <string name="published">Published</string>
+        <string name="enter_a_query">Enter a query</string>
+    <string name="select_video_quality">Select video quality</string>
+    <string name="medium_quality">Medium quality</string>
+    <string name="high_quality">High quality</string>
+    <string name="select_an_action">Select an action</string>
+    <string name="download_video">Download video in high quality</string>
+    <string name="Video_statistics">Video statistics</string>
+    <string name="Channel_name">"Channel name: "</string>
+    <string name="Number_of_subscribers">"Number of subscribers: "</string>
+    <string name="Genre">"Genre: "</string>
+    <string name="Opened_alert">The results are already open!</string>
+    <string name="Error">Install a third-party boot loader on this device, for example: ES Explorer</string>
+    <string name="Share">Share the video via</string>
+    <string name="Published">"Published: "</string>
+    <string name="Loading">Loading...</string>
+    <string name="Settings">Settings</string>
+    <string name="Choose_a_mirror_invidious">Choose a instance invidious:</string>
+    <string name="Libraries_used">Libraries used:</string>
+</resources>
+
