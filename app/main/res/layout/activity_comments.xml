@@ -1,0 +1,32 @@
+<!-- res/layout/activity_video_details.xml -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/errorComTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Ошибка загрузки"
+            android:visibility="gone" />
+
+        <ListView
+            android:id="@+id/commentsListView"
+            style="@android:style/Widget.Holo.Light.ListView"
+            android:layout_width="match_parent"
+
+            android:layout_height="350dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="false"
+            android:layout_marginTop="16dp"
+            android:divider="@mipmap/black_round" />
+    </LinearLayout>
+</ScrollView>
