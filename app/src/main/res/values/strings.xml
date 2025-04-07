@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReOldTube</string>
+    <string name="video_detail">Video</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="comments">Comments</string>
+
+    <string name="loading">Loading...</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="retry">Retry</string>
+
+    <string name="trending">Trending</string>
+    <string name="categories">Categories</string>
+
+    <string name="search_hint">Search videos</string>
+    <string name="no_results">Nothing found</string>
+
+    <string name="views">views</string>
+    <string name="likes">Likes</string>
+    <string name="description">Description</string>
+    <string name="channel">Channel</string>
+    <string name="play_video">Watch video</string>
+
+    <string name="comment_replies">replies</string>
+    <string name="show_more_comments">Show more comments</string>
+
+    <string name="instance_url">Invidious instance URL</string>
+    <string name="reset_to_default">Reset to default</string>
+    <string name="video_quality">Video quality</string>
+    <string name="region">Region</string>
+    <string name="external_player">Use external player</string>
+    <string name="about_app">About app</string>
+    <string name="clear_cache">Clear image cache</string>
+    <string name="save_settings">Save settings</string>
+    <string name="settings_saved">Settings saved</string>
+</resources>
